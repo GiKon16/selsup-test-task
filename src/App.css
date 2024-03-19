@@ -1,0 +1,47 @@
+#root {
+  margin: 0 auto;
+}
+
+.param-editor {
+  display: flex;
+  font-size: 24px;
+}
+
+.params {
+  margin-right: 30px;
+}
+
+.param {
+  display: flex;
+}
+
+.values {
+  display: flex;
+  flex-direction: column;
+}
+
+.value-input {
+  font-size: 24px;
+  margin: 3px 0;
+  padding-left: 10px;
+}
+
+.model {
+  margin-top: 100px;
+  display: flex;
+  flex-direction: column;
+  place-items: center;
+}
+
+.button {
+  padding: 5px 10px;
+  margin-bottom: 20px;
+  font-size: 24px;
+  cursor: pointer;
+}
+
+.struct {
+  display: flex;
+  font-size: 24px;
+}
+
